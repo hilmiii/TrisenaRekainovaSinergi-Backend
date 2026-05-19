@@ -22,3 +22,6 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/seeders/AdminSeeder.php
+/seeders/DatabaseSeeder.php
+/seeders/ProductSeeder.php
